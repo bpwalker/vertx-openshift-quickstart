@@ -23,7 +23,7 @@ and enter the directory
 
 Add this repository as new remote
 
-	git remote add template -m master git://github.com/marekjelen/openshift-vertx.git
+	git remote add template -m master git://github.com/openshift-quickstart/vertx-openshift-quickstart.git
 
 and pull locally
 
